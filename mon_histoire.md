@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Mon histoire
 ---
-# Mon histoire
+
 Comment est née l'idée de ce projet
