@@ -1,0 +1,24 @@
+- name: Accueil
+  link: /
+- name: Mon Yoga 
+  link: /mon_yoga.html
+- name: Yin Yoga 
+  link: /yin_yoga.html
+- name: Hatha Yoga 
+  link: /hatha_yoga.html
+- name: Vinyasa Yoga 
+  link: /vinyasa_yoga.html
+- name: Yoga en entreprise
+  link: /yoga_en_entreprise.html
+- name: Méditation
+  link: /meditation.html
+- name: Horaires
+  link: /horaires.html
+- name: Tarifs
+  link: /tarifs.html
+- name: Mon histoire
+  link: /mon_histoire.html
+- name: Blog
+  link: /blog.html
+- name: Contact
+  link: /contact.html
