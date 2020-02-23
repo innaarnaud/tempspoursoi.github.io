@@ -1,6 +1,5 @@
 ---
-layout: post
-author: inna
+author: Inna
 ---
 La méditation est une pratique universelle, transmise de génération en génération depuis des milliers d'années.
 

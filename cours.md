@@ -1,4 +1,4 @@
 ---
 layout: default
-title: Tarifs
+title: Les cours
 ---
