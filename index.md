@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Accueil
 ---
-Temps pour soi?  
-mais je n'ai pas de temps pour moi, j'ai tant d'occupations...  
-  
-on a déjà entendu cela, voir même plusieurs fois.  
+On cherche tous à être heureux, à vivre pleinement et en bonne santé, n'est ce pas?
+
+Apprenons à prendre du temps pour prendre soin de Soi.
+
+
+![un ceur en fleurs](/assets/images/flower_heart.png)
