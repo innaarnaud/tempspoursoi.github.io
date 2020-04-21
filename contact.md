@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nous contacter
+title: Me contacter
 ---
 
 <div class="contact-form">

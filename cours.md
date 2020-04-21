@@ -4,10 +4,12 @@ title: Les cours
 ---
 Le Yoga s’adapte au pratiquant et non l’inverse.
 
-Je vous propose des cours de yoga dynamique ou Yang yoga ainsi que des cours de yoga doux et introspectif: Yin Yoga.
-Le cours de Core Yoga est un cours Yang, intensif et très sportif.
- 
-Le Do In est une technique d'auto massage issu de la medecine traditionnelle chinois, également connu comme du Yoga japonais.
+Yin yoga
+Vinyasa
+Dô-In
+Yoga en entreprise
+Yoga pour enfants
+
 
 Je vous propose de pratiquer ensemble à Valence ou à Romans-sur-Isère.
 
