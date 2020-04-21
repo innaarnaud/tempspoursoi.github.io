@@ -10,6 +10,9 @@
 .header .back {
   position: absolute;
   opacity: 0.3;
+  padding-left: 20vw;
+  margin-top: -70px;
+  transform: rotate(-15deg);
 }
 
 @media screen and (max-width: 1023px) {
@@ -90,11 +93,25 @@
 }
 
 @media only screen and (min-width: 1024px) {
+  .logo {
+    max-width: 300px;
+  }
+
+  .menu {
+    padding-right: 100px;
+  }
+
   .header {
     position: fixed;
-    height: 100vh;
-    width: 300px;
+    width: 100vw;
+    min-height: 120px;
   }
+
+  .header .title {
+    text-align: left;
+    max-width: 300px;
+  }
+
   .hamburger {
     display: none;
   }

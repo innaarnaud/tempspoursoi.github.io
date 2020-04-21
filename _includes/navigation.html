@@ -1,9 +1,9 @@
 <nav>
   {% for item in site.data.navigation %}
-  <div class="item">
+  <span class="item">
     <a href="{{ item.link }}" {% if page.url == item.link %}class="selected"{% endif %}>
       {{ item.name }}
     </a>
-  </div>
+  </span>
   {% endfor %}
 </nav>

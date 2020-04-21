@@ -13,7 +13,8 @@ body {
     display: flex;
   }
   .content {
-    margin-left: 300px;
+    margin-top: 150px;
+    // margin-left: 300px;
   }
 }
 
@@ -39,7 +40,8 @@ h1, h2, h3, h4 {
 
 .citation {
 	margin: 0;
-	position: relative;
+  margin-top: 80px !important;
+  margin-bottom: 80px !important;
 }
 
 .home {
@@ -47,16 +49,16 @@ h1, h2, h3, h4 {
 }
 
 @media only screen and (min-width: 1024px) {
-	.home {
-		width: calc(100vw - 300px);
-	}
+  .citation {
+    width: 700px;
+    margin: auto;
+  }
 }
 
 .citation .over {
-	position: absolute;
 	top: 10%;
-	left: 10%;
-	color: #fff;
+	right: 10%;
+	color: #2189b2;
 	font-family: 'Amatic SC', cursive;
 	font-size: 2em;
 }
@@ -72,7 +74,6 @@ h1, h2, h3, h4 {
 }
 .line2 {
 	display: block;
-	padding-left: 60px;
 }
 
 .pre.quote,
@@ -91,10 +92,11 @@ h1, h2, h3, h4 {
 .author {
 	padding-top: 5px;
 	display: block;
-    font-style: italic;
-    text-align: right;
-    font-size: 0.85em;
-    color: #eee;
+  font-style: italic;
+  text-align: right;
+  font-size: 0.6em;
+  opacity: 0.6;
+  color: #666;
 }
 
 table{

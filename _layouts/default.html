@@ -15,12 +15,14 @@
     <div class="hamburger">
       <span></span>
     </div>
-    <h1 class="title">
-      {{site.title}}
-    </h1>
-    <div class="menu">
+    <span class="logo">
+      <h1 class="title">
+        {{site.title}}
+      </h1>
+    </span>
+    <span class="menu">
       {% include navigation.html %}
-    </div>
+    </span>
   </div>
   <div class="content {% if page.title == 'Accueil'%}noborder{% endif %} {% if page.title == 'Me contacter'%}noborder{% endif %}">
     {% if page.title != 'Accueil' %}
