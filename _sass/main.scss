@@ -1,13 +1,27 @@
 
 body {
   margin: 0;
-  font-family: "PetitaMedium";
+  // font-family: "PetitaMedium";
+
+  font-family: brandon-grotesque, sans-serif;
+  font-weight: 300;
+  font-style: normal;
 }
 
 @media only screen and (min-width: 1024px) {
   body {
     display: flex;
   }
+  .content {
+    margin-left: 300px;
+  }
+}
+
+h1, h2, h3, h4 {
+  color: #2189b2;
+  font-family: brandon-grotesque, sans-serif;
+  font-weight: 300;
+  font-style: normal;
 }
 
 .content {
@@ -15,6 +29,88 @@ body {
 	padding: 20px;
 }
 
+.content.noborder {
+	padding: 0px;
+}
+
 .content .title {
 	text-align: center;
 }
+
+.citation {
+	margin: 0;
+	position: relative;
+}
+
+.home {
+	width: 100vw;
+}
+
+@media only screen and (min-width: 1024px) {
+	.home {
+		width: calc(100vw - 300px);
+	}
+}
+
+.citation .over {
+	position: absolute;
+	top: 10%;
+	left: 10%;
+	color: #fff;
+	font-family: 'Amatic SC', cursive;
+	font-size: 2em;
+}
+
+@media only screen and (min-width: 1024px) {
+	.citation .over {
+		font-size: 3.5em;
+	}
+}
+
+.line1 {
+	display: block;
+}
+.line2 {
+	display: block;
+	padding-left: 60px;
+}
+
+.pre.quote,
+.post.quote {
+	width: 50px;
+}
+
+.pre.quote {
+	vertical-align: top;
+}
+
+.post.quote {
+	vertical-align: bottom;
+}
+
+.author {
+	padding-top: 5px;
+	display: block;
+    font-style: italic;
+    text-align: right;
+    font-size: 0.85em;
+    color: #eee;
+}
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 2px solid #414141;
+    width: 100%;
+}
+
+th{
+    border:1px solid #414141;
+    background-color: #eee;
+    width: 20%;
+}
+
+td{
+    border:1px solid #414141;
+}
+

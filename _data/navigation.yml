@@ -1,7 +1,7 @@
 - name: Accueil
   link: /
-- name: Ma pratique 
-  link: /ma_pratique.html
+- name: Ma philosophie 
+  link: /ma_philosophie.html
   sub_items:
   - name: Yin Yoga 
     link: /yin_yoga.html
@@ -15,11 +15,12 @@
     link: /yoga_pour_enfants.html
 - name: Yoga
   link: /yoga.html
-- name: Do-In
+- name: Dô-In
   link: /do_in.html
 - name: Cours
   link: /cours.html
-- name: Blog
-  link: /blog.html
+  hidden:
+  - name: Blog
+    link: /blog.html
 - name: Contact
   link: /contact.html

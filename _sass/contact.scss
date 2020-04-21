@@ -6,6 +6,10 @@ h1#contact-us {
   margin: auto;
 }
 
+.contact-div {
+  background: #F5F7FA;
+}
+
 .contact-form {
   max-width: 800px;
   margin: auto;
@@ -51,9 +55,9 @@ h1#contact-us {
   padding: 9px 10px 10px;
   font-size: 13px;
   line-height: 1;
-  border: 2px solid #A2DED0;
+  border: 2px solid #2189b2;
   border-radius: 3px;
-  background: #A2DED0;
+  background: #2189b2;
   color: #fff;
   font-weight: 600;
   letter-spacing: 0;
@@ -70,6 +74,6 @@ h1#contact-us {
 }
 
 .actions .button:hover {
-  background: #6ed8bf;
-  border: 2px solid #6ed8bf;
+  background: rgba(33, 137, 178, 0.8);
+  border: 2px solid rgba(33, 137, 178, 0.8);
 }

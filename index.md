@@ -1,9 +1,21 @@
 ---
 layout: default
+title: Accueil
 ---
-On cherche tous à être heureux, à vivre pleinement et en bonne santé, n'est ce pas?
 
-Apprenons à prendre du temps pour prendre soin de Soi.
-
-
-![un ceur en fleurs](/assets/images/flower_heart.png)
+<p class="citation">
+	<img class="home" src="/assets/images/home.jpg" />
+	<span class="over">
+		<span class="line1">
+			<img class="pre quote" src="/assets/images/quotes.png" />
+			Quand nous nous manquons à nous-même,
+		</span>
+		<span class="line2">
+			tout nous manque.
+			<img class="post quote" src="/assets/images/quotes.png" />
+		</span>
+		<span class="author">
+			Johann Wolfgang von Goethe
+		</span>
+	</span>
+</p>
