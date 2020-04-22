@@ -3,13 +3,15 @@ layout: default
 title: Ma philosophie
 ---
 
-Passionnée par la psychologie positive et la médecine alternative, j'intègre certaines notions dans mes cours.  
-Le bien-être global reste au centre de la pratique.  
-L’écoute du soi, découverte de ses capacités et forces ainsi que l’apaisement du mental peuvent décrire la pratique.  
-Oui, j’utilise souvent le mot "pratique" et non pas "cours".  
-Cela pour une raison qu’en pratiquant régulièrement, même quelques minutes par jour on obtient des résultats tangibles.  
-Grâce à la respiration (pranayama), au mouvement (asana), à l’écoute de ses pensées et de ses émotions qui traversent le corps à chaque instant on trouve le chemin vers le bien-être (on cultive notre bien être et estime du soi).  
-Je vous invite, grâce au Yoga et le Dô-In, à découvrir ce que vous rend heureux, ce que vous aide à vous sentir vivant et bien dans votre peau!  
+Passionnée par la psychologie positive et la médecine alternative, j'intègre certaines notions dans mes cours. Le bien-être global reste au centre de la pratique.  
+
+L’écoute du soi, découverte de ses capacités et forces ainsi que l’apaisement du mental peuvent décrire la pratique. Oui, j’utilise souvent le mot "pratique" et non pas "cours".  
+
+Cela pour une raison qu’en pratiquant régulièrement, même quelques minutes par jour, on obtient des résultats tangibles.
+  
+Grâce à la respiration (pranayama), à la posture (asana), à la méditation et à l’écoute de ses pensées et de ses émotions qui traversent le corps à chaque instant, on cultive notre bien être et estime du soi.  
+
+Je vous invite, à travers le Yoga et le Dô-In, à découvrir ce que vous rend heureux, ce que vous aide à vous sentir vivant et bien dans votre peau!  
 
 ## Quelques mots à propos de moi:
 
@@ -21,32 +23,21 @@ Je vous invite, grâce au Yoga et le Dô-In, à découvrir ce que vous rend heur
 		</div>
 		<div>
 			<label>Activité du moment</label>
-			<span>professeur de yoga et de Dô-In et éternelle élève</span>
+			<span>Professeur de yoga et de Dô-In et éternelle élève</span>
 		</div> 
 		<div>
 			<label>Diplômes</label>
 			<span>
-				<ul>
-					<li>
-						Professeur de vinyasa et hatha yoga, formation(200h)<br/>
-						par Gérard Arnaud et son équipe.<br/>
-		  				Diplôme reconnu par Yoga Alliance et Yoga Alliance US et Fédération Française de Yoga
-		  			</li>
-		  		</ul>
+						Professeur de vinyasa et hatha yoga, formation de 200h avec Gérard Arnaud.<br/>
+		  				
 		  	</span>
 			<span>
-				<ul>
-					<li>
-						Professeur de Yin yoga et Pranayama, formation (100 heures)<br/>
-						par Louise Cutler.<br/>
-		  				Diplôme reconnu par Yoga Alliance International
-		  			</li>
-		  		</ul>
+						Professeur de yin yoga et pranayama, formation de 100h avec Louise Cutler.<br/>
 		  	</span>
 		</div>
 		<div>
 			<label>Pourquoi j'enseigne</label>
-			<span>pour partager la force de ces pratiques pour notre bien-être</span>
+			<span>Pour partager la force de ces pratiques pour notre bien-être et santé </span>
 		</div>
 		<div>
 			<label>Posture préféré du moment</label>
@@ -54,15 +45,7 @@ Je vous invite, grâce au Yoga et le Dô-In, à découvrir ce que vous rend heur
 		</div>
 		<div>
 			<label>Passion</label>
-			<span>le corps humain et le bonheur</span>
-		</div>
-		<div>
-			<label>Qualité</label>
-			<span>ouverture d’esprit</span>
-		</div>
-		<div>
-			<label>Défaut selon moi</label>
-			<span>volonté de comprendre</span>
+			<span>Le corps humain et le bonheur</span>
 		</div>
 		<div>
 			<label>Couleur préféré</label>
@@ -70,11 +53,11 @@ Je vous invite, grâce au Yoga et le Dô-In, à découvrir ce que vous rend heur
 		</div>
 		<div>
 			<label>Plat préféré</label>
-			<span>celui fait avec l’amour</span>
+			<span>Celui fait avec l’amour</span>
 		</div>
 		<div>
 			<label>Dessert préféré</label>
-			<span>fruits et des noix (oh oui, toutes!)</span>
+			<span>Fraises, cerises et pêches </span>
 		</div>
 		<div>
 			<label>Projets de voyages</label>
@@ -82,7 +65,7 @@ Je vous invite, grâce au Yoga et le Dô-In, à découvrir ce que vous rend heur
 		</div>
 		<div>
 			<label>Livre du moment</label>
-			<span>s'il y avait qu’un..<br/>Pour en nommer qu’un: L’Art du Calme Intérieur d’Eckhart Tolle</span>
+			<span> Pour en nommer qu’un: L’Art du Calme Intérieur d’Eckhart Tolle</span>
 		</div>
 	</div>
 	<div class="image">
