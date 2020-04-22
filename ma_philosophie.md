@@ -17,60 +17,10 @@ Je vous invite, à travers le Yoga et le Dô-In, à découvrir ce que vous rend 
 
 <div class="description">
 	<div class="comments">
-		<div>
-			<label>Prénom</label>
-			<span>Inna</span>
-		</div>
-		<div>
-			<label>Activité du moment</label>
-			<span>Professeur de yoga et de Dô-In et éternelle élève</span>
-		</div> 
-		<div>
-			<label>Diplômes</label>
-			<span>
-						Professeur de vinyasa et hatha yoga, formation de 200h avec Gérard Arnaud.<br/>
-		  				
-		  	</span>
-			<span>
-						Professeur de yin yoga et pranayama, formation de 100h avec Louise Cutler.<br/>
-		  	</span>
-		</div>
-		<div>
-			<label>Pourquoi j'enseigne</label>
-			<span>Pour partager la force de ces pratiques pour notre bien-être et santé </span>
-		</div>
-		<div>
-			<label>Posture préféré du moment</label>
-			<span>Eka Pada Kapotasana de yin yoga (pour ses bienfaits)</span>
-		</div>
-		<div>
-			<label>Passion</label>
-			<span>Le corps humain et le bonheur</span>
-		</div>
-		<div>
-			<label>Couleur préféré</label>
-			<span>Turquoise et blanc</span>
-		</div>
-		<div>
-			<label>Plat préféré</label>
-			<span>Celui fait avec l’amour</span>
-		</div>
-		<div>
-			<label>Dessert préféré</label>
-			<span>Fraises, cerises et pêches </span>
-		</div>
-		<div>
-			<label>Projets de voyages</label>
-			<span>Amérique latine, Asie</span>
-		</div>
-		<div>
-			<label>Livre du moment</label>
-			<span> Pour en nommer qu’un: L’Art du Calme Intérieur d’Eckhart Tolle</span>
-		</div>
+		{% capture my_include %}{% include description.md %}{% endcapture %}
+		{{ my_include | markdownify }}
 	</div>
 	<div class="image">
 		<img src="/assets/images/inna_square.png" alt="Inna"/>
 	</div>
 </div>
-
-
