@@ -13,10 +13,6 @@
 
 **Passion:** le corps humain et le bonheur
 
-**Qualité:** ouverture d’esprit
-
-**Défaut selon moi:** volonté de comprendre
-
 **Couleur préféré:** turquoise et blanc
 
 **Plat préféré:** celui fait avec l’amour
