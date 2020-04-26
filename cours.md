@@ -13,7 +13,7 @@ Mardi et jeudi on peut pratiquer ensemble à Valence
 ## Les cours au Dojo Historique de Valence
 
 Les cours à Valence ont lieu au Dôjô historique, au 13 Rue Mirabel Chambaud.  
-[Site internet du Dojo historique](www.dojo-historique-valence.fr)
+[Site internet du Dojo historique](https://www.dojo-historique-valence.fr)
 
 **Vinyasa yoga**: mardi 12h30-13h30 et jeudi 18h30-19h30
 
