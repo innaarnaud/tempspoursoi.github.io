@@ -19,9 +19,10 @@ title: Accueil
 
 <img class="home" src="/assets/images/mudra.jpg" />
 
-<h1 style="text-align: center; margin-top: 120px;">Me contacter</h1>
 
 <div class="contact-div">
+  <h1 style="text-align: center; margin-top: 120px; padding-top: 100px;" id="contact">Me contacter</h1>
+
   <div class="contact-form">
     <form action="{{site.contact_action}}" method="POST">
       <div class="item">
