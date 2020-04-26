@@ -92,6 +92,14 @@
     border-radius: 0;
 }
 
+.logo {
+  z-index: 1000;
+}
+
+.title:hover {
+  color: #fff;
+}
+
 @media only screen and (min-width: 1024px) {
   .logo {
     max-width: 300px;
