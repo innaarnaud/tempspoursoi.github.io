@@ -2,33 +2,34 @@
 layout: default
 title: Les cours
 ---
-Le Yoga s’adapte au pratiquant et non l’inverse. 
+Chacun de nous est différent et le yoga s’adapte à TOUS!
 
-Trouvez un cours qui vous ressemble et qui vous fait du bien à Valence ou à Romans-sur-Isère. Si vous recherchez un cours particulier, n'hésitez pas à me contacter pour échanger ensemble.
 
-Lundi et mercredi je vous propose de pratiquer à Romans-sur-Isère.
+## Trouvez un cours qui vous ressemble et qui vous fait du bien!
 
-Mardi et jeudi on peut pratiquer ensemble à Valence 
+Je partage plusieurs styles de yoga complémentaire pour que chacun puisse trouver celui qui lui convient.  
+Chaque cours se compose des postures qui varient en fonction de la saison, de l'énergie du groupe et de l'inspiration du moment.  
+Vous pouvez découvrir gratuitement mes yogas avant la rentrée de septembre.
 
-## Les cours au Dojo Historique de Valence
 
-Les cours à Valence ont lieu au Dôjô historique, au 13 Rue Mirabel Chambaud.  
-[Site internet du Dojo historique](https://www.dojo-historique-valence.fr)
+## Séances découverte gratuites
 
-**Vinyasa yoga**: mardi 12h30-13h30 et jeudi 18h30-19h30
+| Date                | Heure       | Style          |
+|---------------------|:-----------:|:--------------:|
+| Vendredi 10 juillet | 17h15-18h15 | Yoga dynamique |
+| Vendredi 10 juillet | 18h30-19h30 | Yin Yoga       |
+| Mardi 21 juillet    | 10h-11h     | Yin Yoga       |
+| Mardi 21 juillet    | 12h30-13h15 | Dō-In          |
+| Vendredi 24 juillet | 17h15-18h15 | Yoga dynamique |
+| Vendredi 24 juillet | 18h30-19h30 | Yin Yoga       |
+| Mardi 4 août        | 10h-11h     | Yin Yoga       |
+| Mardi 4 août        | 12h30-13h15 | Dō-In          |
+| Vendredi 7 août     | 17h15-18h15 | Dō-In          |
+| Vendredi 7 août     | 18h30-19h30 | Yoga dynamique |
+{: .sceances }
 
-**Yin yoga**: mardi 10h-11h, mardi 11h15-12h15 et jeudi 17h15-18h15
-
-**Dô-In**: Jeudi 16h-17h
-
-## Les cours à Do Mana studio à Romans-sur-Isère
-
-**Vinyasa**: lundi 12h30-13h30 et mercredi 20h-21h
-
-**Yoga pour enfants**: mercredi 14h-14h30
-
-**Dô-In**: Lundi 10h-11h et mercredi 15h-16h
-
-Les cours à Romans-sur-Isère ont lieu à Do Mana studio au 13 Place Maurice Faure.  
-La salle se trouve au 2ème étage, passer par l'Atelier du Jus.  
+### Lieu des cours à Valence:
+Dōjō historique, à 2 pas du Parc Jouvet  
+13 Rue Mirabel Chambaud  
+26000 Valence
 
