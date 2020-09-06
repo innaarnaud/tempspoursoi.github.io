@@ -6,18 +6,25 @@ image: inna_vercors.jpg
 ---
 
 <div class="block" markdown="1">
+## A propos de moi:
+
 Passionnée par la psychologie positive et la médecine alternative, j'intègre certaines notions dans mes cours. Le bien-être global reste au centre de la pratique.  
 
 L’écoute du soi, découverte de ses capacités et forces ainsi que l’apaisement du mental peuvent décrire la pratique. Oui, j’utilise souvent le mot "pratique" et non pas "cours".  
 
 Cela pour une raison qu’en pratiquant régulièrement, même quelques minutes par jour, on obtient des résultats tangibles.
-  
-Grâce à la respiration (pranayama), à la posture (asana), à la méditation et à l’écoute de ses pensées et de ses émotions qui traversent le corps à chaque instant, on cultive notre bien être et estime du soi.  
 
-Je vous invite, à travers le Yoga et le Dô-In, à découvrir ce que vous rend heureux, ce que vous aide à vous sentir vivant et bien dans votre peau!  
+## Pourquoi avoir créer KenkōDō:
 
-<!-- ## Pourquoi j'en suis arrivée là: -->
+L'idée de KenkōDō a germé dans ma tête depuis mon enfance, grâce à ma maman qui utilisais des remèdes naturelles.  
 
+Les mots Kenkō et Dō en japonais signifient La Voie de la Santé.  
+
+L'objectif de KenkōDō est de garder la santé et/ou améliorer sa santé à travers des exercices de respiration, la nutrition et le travail corporel.  
+
+En prenant votre Voie de la Santé (votre KenkoDo) vous retrouvez un lien précieux entre le physique, le mental, l'émotionnel et le spirituel.  
+
+Je serai heureuse de vous accompagner et de partager mes connaissances et ma pratique de Yoga et de Dō-In avec vous.  
 
 ## Mes formations:
 

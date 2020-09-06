@@ -11,9 +11,7 @@ noborder: true
         Bienvenue
       </span>
       <span class="line1">
-        <!-- Faire son chemin de santé personnelle -->
-        Soyez acteur de votre chemin de santé personnelle
-        <!-- L'art d'être bien soi-même -->
+        Soyez acteur de votre chemin de santé
       </span>
       <span class="actions">
         <a href="/cours#le-planning">
@@ -41,7 +39,7 @@ noborder: true
     <p>
       Découvrez différentes pratiques de bien-être et leurs bienfaits.
     </p>
-    <a href="#" title="Découvrir" class="button">Découvrir</a>
+    <a href="/nouveau" title="Découvrir" class="button">Découvrir</a>
   </span>
   <span class="boxe">
     <h3>
