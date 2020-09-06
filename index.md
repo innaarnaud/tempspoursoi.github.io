@@ -57,7 +57,7 @@ noborder: true
     <p>
       Découvrez nos prochaines activités et rejoignez nous !
     </p>
-    <a href="#" title="Voir les événements" class="btn btn-style-2">Voir les événements</a>
+    <a href="/events" title="Voir les événements" class="btn btn-style-2">Voir les événements</a>
   </span>
 </div>
 

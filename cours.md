@@ -103,7 +103,7 @@ Chaque cours se compose des postures qui varient en fonction de la saison, de l'
 </table>
 
 <div id="duration">
-Les séances durent 1 heure, hors vacances scolaire.
+Les séances durent 1 heure, hors vacances scolaires.
 </div>
 
 <h2 id="essai">
