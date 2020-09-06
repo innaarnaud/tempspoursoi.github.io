@@ -9,9 +9,6 @@
 </head>
 <body>
   <div class="header">
-    <div class="back">
-      <img src="/assets/images/mandala_white.png" />
-    </div>
     <div class="hamburger">
       <span></span>
     </div>
@@ -26,17 +23,52 @@
       {% include navigation.html %}
     </span>
   </div>
-  <div class="content {% if page.title == 'Accueil'%}noborder{% endif %} {% if page.title == 'Me contacter'%}noborder{% endif %}">
+  <div class="content {% if page.title == 'Accueil' %}accueil{% endif %} {% if page.noborder %}noborder{% endif %}">
     {% if page.title != 'Accueil' %}
-      <h1 class="title">
-        {{page.title}}
-      </h1>
+      {% if page.image != 'Accueil' %}
+        <div class="first section">
+          <div class="title"> 
+            <h1>
+              {{page.title}}
+            </h1>
+          </div>
+          <img src="/assets/images/{{page.image}}" />
+        </div>
+
+      {% else %}
+        <h1 class="title">
+          {{page.title}}
+        </h1>
+      {% endif %}
     {% endif %}
     {{ content }}
   </div>
 
   <div class="footer">
-    <!-- Temps pour Soi -->
+    <div class="network">
+      <span class="logo">
+        <a href="/">
+          <h1 class="title">
+            {{site.title}}
+          </h1>
+        </a>
+      </span>
+
+      <div id="social">
+        <span>
+          <a href="https://www.facebook.com/kenkodo.yogadoin" class="facebook" target="_blank">
+            <img alt="facebook" src="/assets/images/facebook.svg"/> Facebook
+          </a>
+        </span>
+      </div>
+      <div id="details">
+        Cours de Yoga et de Dō-In à Valence et Romans sur Isère.<br/>
+        Accompagnement personnalisé.
+      </div>
+    </div>
+    <div class="rights">
+      © 2020 - TOUS DROITS RÉSERVÉS - <a href="/mention_legales">MENTIONS LÉGALES</a>
+    </div>
   </div>
 
   <script type="text/javascript">

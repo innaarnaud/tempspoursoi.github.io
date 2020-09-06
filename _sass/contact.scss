@@ -64,6 +64,14 @@ h1#contact-us {
   cursor: pointer;
 }
 
+.telephone {
+  text-align: center;
+  font-size: 1.2em;
+  a {
+    color: #2189b2;
+  }
+}
+
 #newsletter {
   margin-top: 30px;
 }
@@ -76,4 +84,12 @@ h1#contact-us {
 .actions .button:hover {
   background: rgba(33, 137, 178, 0.8);
   border: 2px solid rgba(33, 137, 178, 0.8);
+}
+
+input, textarea {
+  font-family: brandon-grotesque, sans-serif;
+}
+
+textarea {
+  min-height: 150px;
 }

@@ -1,0 +1,186 @@
+
+.content.accueil {
+  margin-top: 0px !important;
+}
+
+.intro {
+  position: relative;
+
+  .home {
+    border-right: 10px solid #FFF;
+    border-left: 10px solid #FFF;
+    border-top: 10px solid #FFF;
+    width: calc(100vw - 20px);
+  }
+}
+
+.citation {
+  position: absolute;
+  color: #fff !important;
+  top: 35%;
+  left: 10%;
+  margin: 0;
+  margin-top: 80px !important;
+  margin-bottom: 80px !important;
+
+  .over {
+    top: 10%;
+    right: 10%;
+    color: #fff;
+    font-family: 'Courgette', cursive;
+  }
+
+  .welcome {
+    padding-left: 43px !important;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 3px #000;
+    display: inline-block;
+    position: relative;
+    font-family: brandon-grotesque, sans-serif;
+  }
+
+  .welcome:before {
+    content: "";
+    position: absolute;
+    display: block;
+    background-color: #fff;
+    height: 1px;
+    width: 30px;
+    top: 50%;
+    left: 0;
+  }
+
+  .line1 {
+    text-shadow: 1px 1px 3px #000;
+    display: block;
+    font-size: 2em;
+  }
+
+  .actions {
+    display: inline-block;
+    margin-top: 20px;
+
+    a {
+      margin-left: 10px;
+    }
+
+    a:nth-child(1) {
+      margin-left: 0px;
+    }
+
+    span {
+      font-family: brandon-grotesque, sans-serif;
+      color: #2189b2;
+      background-color: #fff;
+      padding: 10px 30px;
+      border-radius: 30px;
+      cursor: pointer;
+    }
+
+    span:hover {
+      background-color: #b2dff1;
+    }
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .citation {
+    width: 700px;
+    margin: auto;
+  }
+}
+
+.boxes {
+  display: flex;
+  flex-direction: row!important;
+  flex-wrap: wrap;
+
+  .boxe {
+    flex: 1;
+    padding: 60px;
+    height: 350px;
+
+    h3, p {
+      color: #fff;
+    }
+
+    h3 {
+      position: relative;
+      padding-left: 60px;
+      font-family: "Courgette";
+      font-size: 2em;
+      -webkit-transition: all .45s ease;
+      -o-transition: all .45s ease;
+      transition: all .45s ease;
+    }
+
+    p, a {
+      -webkit-transform: translateX(60px);
+      -ms-transform: translateX(60px);
+      -o-transform: translateX(60px);
+      transform: translateX(60px);
+      -webkit-transition: all .45s ease;
+      -o-transition: all .45s ease;
+      transition: all .45s ease;
+      opacity: 0;
+    }
+
+    a {
+      color: #2189b2;
+      background-color: #fff;
+      border-radius: 30px;
+      padding: 10px;
+      display: inline-block;
+    }
+
+    h3:before {
+      content: "";
+      position: absolute;
+      display: block;
+      background-color: #fff;
+      height: 1px;
+      width: 30px;
+      top: 50%;
+      left: 0;
+      -webkit-transition: all .45s ease;
+      -o-transition: all .45s ease;
+      transition: all .45s ease;
+    }
+
+  }
+
+  .boxe:nth-child(1) {
+    background-image: url("/assets/images/plantes.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .boxe:nth-child(2) {
+    background-image: url("/assets/images/accompagnement.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .boxe:nth-child(3) {
+    background-image: url("/assets/images/mlle_violette_2020.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+
+  .boxe:hover {
+    h3 {
+      padding-left: 0px;
+    }
+
+    h3:before {
+      left: calc(100% - 60px);
+    }
+
+    p, a {
+      -webkit-transform: translateX(0px);
+      -ms-transform: translateX(0px);
+      -o-transform: translateX(0px);
+      transform: translateX(0px);
+      opacity: 1;
+    }
+  }
+}

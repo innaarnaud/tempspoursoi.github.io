@@ -1,58 +1,115 @@
 
-.menu {
-  z-index: 1000;
-}
-
-.menu .item {
-  font-family: brandon-grotesque, sans-serif;
-  font-weight: 300;
-  font-style: normal;
-}
-
 .header {
   z-index: 10;
-}
+  .menu {
+    z-index: 1000;
 
-.header nav {
-    padding-left: 10px;
-    padding-bottom: 5px;
-}
+    nav {
+      padding-left: 10px;
+      padding-bottom: 5px;
+      display: inline-block;
+      background-color: #fff;
 
-.header nav a {
-  text-decoration: none;
-  opacity: 1.0;
-  padding-left: 10px;
-  color: #fff !important;
-}
+      .menuitem {
+        position: relative;
 
-.header nav a:before {
-  content: "";
-  display: inline-block;
-  width: 25px;
-  height: 20px;
-  // background: url("/assets/images/yogi.gif") no-repeat;
+        a {
+          text-decoration: none;
+          opacity: 1.0;
+          padding-left: 10px;
+          color: #333 !important;
 
-  vertical-align: bottom;
-  background-size: 100%;
+          .item {
+            font-family: brandon-grotesque, sans-serif;
+            font-weight: 300;
+            font-style: normal;
+          }
+        }
 
-  font-family: 'Amatic SC', cursive;
-}
+        .sub-menu {
+          position: absolute;
+          top: 100%;
+          right: -20px;
+          background-color: #2189b2;
+          color: #fff;
+          -webkit-box-shadow: 0px 4px 13px -3px #808080;
+          -moz-box-shadow: 0px 4px 13px -3px #808080;
+          -ms-box-shadow: 0px 4px 13px -3px #808080;
+          -o-box-shadow: 0px 4px 13px -3px #808080;
+          box-shadow: 0px 4px 13px -3px #808080;
+          padding: 0px 10px;
+          padding-right: 24px;
+          padding-bottom: 20px;
+          min-width: 200px;
+          max-width: 0px;
+          max-height: 0px;
+          height: auto;
 
-.header nav a.selected {
-  color: #ecd887 !important;
-  opacity: 1.0;
-}
+          opacity: 0;
+          // display: none;
+          margin-top: 150px;
 
-.header nav a:hover {
-  opacity: 0.7;
+          /* -webkit-transform: translateY( 40px ); */
+          -moz-transform: translateY( 40px );
+          -ms-transform: translateY( 40px );
+          -o-transform: translateY( 40px );
+          transform: translateY( 40px );
+          // -webkit-transition: -webkit-transform 0.5s ease, opacity 0.6s ease, max-height 0.6s step-end, max-width 0.6s step-end, padding 0.6s step-end;
+          // -o-transition: -o-transform 0.5s ease, opacity 0.6s ease, max-height 0.6s step-end, max-width 0.6s step-end, padding 0.6s step-end;
+          // transition: transform 0.5s ease, opacity 0.6s ease, max-height 0.6s step-end, max-width 0.6s step-end, padding 0.6s step-end;
+
+
+          -webkit-transition: -webkit-transform 0.5s ease, opacity 0.2s ease, max-height 0s step-end, max-width 0s step-end, padding 0s step-end;
+          -o-transition: -o-transform 0.5s ease, opacity 0.2s ease, max-height 0s step-end, max-width 0s step-end, padding 0s step-end;
+          transition: transform 0.5s ease, opacity 0.2s ease, max-height 0s step-end, max-width 0s step-end, padding 0s step-end;
+
+          .sub-item {
+            display: block;
+            color: #fff !important;
+          }
+        }
+      }
+
+      .menuitem:hover {
+        .sub-menu {
+          opacity: 1;
+          margin-top: 0px;
+          max-width: 3000px;
+          max-height: 3000px;
+          -webkit-transform: translateY( 0px );
+          -moz-transform: translateY( 0px );
+          -ms-transform: translateY( 0px );
+          -o-transform: translateY( 0px );
+          transform: translateY( 0px );
+        }
+      }
+
+      a.selected .item {
+        border-bottom: 1px solid #333333;
+        opacity: 1.0;
+      }
+
+      a:hover .item {
+        border-bottom: 1px solid #333333;
+      }
+
+      .facebook img {
+        height: 18px;
+        opacity: 0.6;
+      }
+
+      .facebook:hover img {
+        opacity: 1.0;
+      }
+    }
+  }
 }
 
 @media screen and (min-width: 1024px) {
-  .menu {
+  .header .menu {
     text-align: right;
-  }
-
-  .header nav .item {
-    padding-bottom: 10px;
+    nav .item {
+      padding-bottom: 3px;
+    }
   }
 }

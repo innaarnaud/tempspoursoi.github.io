@@ -1,129 +1,65 @@
 
 .header {
-  background-color: #2189b2;
-	height: 90px;
+	height: 110px;
   display: flex;
+  flex-wrap: wrap;
   flex-direction: column;
-  overflow: hidden;
+  overflow: visible;
   top: 0;
 }
 
-.header .back {
-  position: absolute;
-  opacity: 0.3;
-  padding-left: 20vw;
-  margin-top: -70px;
-  transform: rotate(-15deg);
-}
-
-@media screen and (max-width: 1023px) {
-  .header .back {
-    display: none;
-  }
-}
-
 .header .title {
-  font-family: brandon-grotesque, sans-serif;
+  font-family: Courgette, sans-serif;
   font-weight: 300;
   font-style: normal;
   text-align: center;
 	margin: 0;
 	flex: 1;
-	padding: 10px;
-  color: #ecd887;
-}
-
-
-.hamburger {
-  padding: 20px;
-  position: absolute;
-  top: 0;
-  right: 0;
-  z-index: 2000;
-}
-
-.hamburger span {
-  z-index: 1000;
-  position: relative;
-  display: inline-block;
-  width: 30px;
-  height: 3px;
-  margin-right: 10px;
-  background-color: rgba(255, 255, 255, 0.5);
-  -webkit-transition: all .4s;
-  transition: all .4s;
-  margin-top: 8px;
-}
-
-.hamburger span:after, .hamburger span:before {
-    content: "";
-    display: block;
-    width: 30px;
-    height: 3px;
-    background-color: rgba(255, 255, 255, 0.5);
-    position: absolute;
-    -webkit-transition: all .4s;
-    transition: all .4s;
-}
-
-.hamburger span:before {
-    top: -8px;
-}
-
-.hamburger span:after {
-    bottom: -8px;
-}
-
-.hamburger.close span {
-    -webkit-transform: rotate(180deg);
-    transform: rotate(180deg);
-    background: transparent;
-}
-
-.hamburger.close span:before {
-    top: 0;
-    -webkit-transform: rotate(45deg);
-    transform: rotate(45deg);
-    border-radius: 0;
-}
-
-.hamburger.close span:after {
-    bottom: 0;
-    -webkit-transform: rotate(-45deg);
-    transform: rotate(-45deg);
-    border-radius: 0;
+	padding-top: 20px;
+  color: #2189b2;
+  background-color: #fff;
+  border: 4px solid #2189b2;
+  border-top: none;
+  height: calc(100px - 14px);
+  box-shadow: 0 0 5px #000;
 }
 
 .logo {
   z-index: 1000;
-}
-
-.header .title:hover {
-  color: #fff;
+  width: 170px;
+  text-align: center;
+  margin-left: 150px;
 }
 
 @media only screen and (min-width: 1024px) {
+  .header {
+    position: fixed;
+    width: 100vw;
+    min-height: 115px;
+  }
+
+  .header .title {
+    max-width: 300px;
+  }
+
   .logo {
     max-width: 300px;
   }
 
   .menu {
     padding-right: 100px;
+    transition: .3s all ease-in-out;
   }
 
-  .header {
-    position: fixed;
-    width: 100vw;
-    min-height: 120px;
+  .menu nav {
+    box-shadow: 0 0 5px #000;
+    padding-right: 20px;
   }
 
-  .header .title {
-    text-align: left;
-    max-width: 300px;
-  }
-
-  .hamburger {
-    display: none;
+  .menu .item {
+    line-height: 70px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 }
 

@@ -1,0 +1,68 @@
+
+.footer {
+  border-top: 4px solid #2189b2;
+  // background-color: #2189b2;
+  min-height: 250px;
+  display: flex;
+  flex-direction: column;
+
+  .network {
+    flex: 1;
+    .logo {
+      display: inline-block;
+      margin: auto;
+      max-width: 100vw;
+      width: 100vw;
+
+      .title {
+        background-color: #fff;
+        display: inline-block;
+        margin: auto;
+        max-width: 180px;
+        padding: 10px;
+        font-family: "Courgette";
+        border: 4px solid #2189b2;
+        border-top: none;
+      }
+    }
+
+    #social {
+      margin-top: 15px;
+      text-align: center;
+
+      a {
+        color: #000;
+        opacity: 0.6;
+      }
+
+      a:hover {
+        opacity: 1.0;
+      }
+
+      img {
+        height: 18px;
+      }
+    }
+
+    #details {
+      margin-top: 15px;
+      text-align: center;
+      opacity: 0.4;
+      font-family: Courgette;
+    }
+  }
+
+  .rights {
+    color: #888;
+    text-align: center;
+    font-size: 0.7em;
+    margin: auto;
+    margin-bottom: 5px;
+
+    a:link,
+    a:visited {
+      color: #888 !important;
+    }
+  }
+}
+

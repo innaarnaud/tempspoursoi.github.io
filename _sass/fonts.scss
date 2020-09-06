@@ -1,4 +1,17 @@
 @font-face {
+  font-family: "Courgette";
+  src: url("/assets/fonts/Courgette-Regular.eot"); /* IE9 Compat Modes */
+  src: url("/assets/fonts/Courgette-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("/assets/fonts/Courgette-Regular.otf") format("opentype"), /* Open Type Font */
+    url("/assets/fonts/Courgette-Regular.svg") format("svg"), /* Legacy iOS */
+    url("/assets/fonts/Courgette-Regular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("/assets/fonts/Courgette-Regular.woff") format("woff"), /* Modern Browsers */
+    url("/assets/fonts/Courgette-Regular.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
   font-family: 'Samarkan';
   src: url('/assets/fonts/SamarkanNormal.ttf');
   src: url('/assets/fonts/SamarkanNormal.eot');

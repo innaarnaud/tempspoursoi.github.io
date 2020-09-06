@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Yoga
+noborder: true
+image: inna_warrior.jpg
 ---
-
+<div class="block" markdown="1">
 C’est une pratique holistique qui ne se réduit pas à l'enchaînement des postures physiques.  
 
 Tout passe par le souffle et la concentration. Le souffle est ce lien entre le soi et la nature, qui fait circuler la vitalité en nous. Le mot yoga en sanscrit signifie le lien, l’union.
@@ -69,24 +71,4 @@ La deuxième partie du cours se compose des postures statiques pour améliorer l
 On cherche à se poser et à observer les sensations sans intervenir, le mouvement se passe donc à l'intérieur.
 
 Le cours se termine par une relaxation pour absorber les bénéfices de la pratique.
-
-
-## Yoga sur chaise
-Permet de garder la mobilité de la colonne vertébrale, des articulations et améliore la circulation de sang et de lymphe.  
-
-On pratique les postures (asanas), des exercices respiratoires (pranayama) et les mudras (gestes des mains) pour améliorer la concentration et diminuer les effets du stress. 
-
-Les postures du yoga "classique" sont adaptées à la chaise, à un espace restreint ou au lieu de travail pour compenser les effets délétères de la sédentarité.
-
-
-## Le Yoga pour enfants
-
-On s’amuse et on pratique ensemble. Les enfants vivent le yoga et on a beaucoup à apprendre en les observant.  
-
-Je vois à quel point la connaissance de ses propres émotions et l’acceptation du soi sont importants pour se sentir confiants et vivre en harmonie avec les autres.  
-
-Pour tisser les liens d’amitié, d'entraide, gérer la pression (personnelle et de l'entourage) et de souffler quand c'est nécessaire.  
-
- 
- 
-
+</div>

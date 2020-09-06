@@ -1,24 +1,19 @@
 - name: Accueil
   link: /
-- name: Ma philosophie 
+- name: Me connaître
   link: /ma_philosophie.html
   sub_items:
-  - name: Yin Yoga 
-    link: /yin_yoga.html
-  - name: Hatha Yoga 
-    link: /hatha_yoga.html
-  - name: Vinyasa Yoga 
-    link: /vinyasa_yoga.html
-  - name: Yoga en entreprise
-    link: /yoga_en_entreprise.html
-  - name: Yoga pour enfants
-    link: /yoga_pour_enfants.html
-- name: Yoga
-  link: /yoga.html
-- name: Dô-In
-  link: /do_in.html
+  - name: Yoga 
+    link: /yoga.html
+  - name: Dô-In
+    link: /do_in.html
 - name: Cours
   link: /cours.html
+  sub_items:
+  - name: Le planning
+    link: /cours#le-planning
+  - name: Tarifs
+    link: /cours#tarifs
   hidden:
   - name: Blog
     link: /blog.html

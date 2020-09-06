@@ -1,17 +1,78 @@
 
 .sceances {
-  border: 2px solid #2189b2;
+  border: 2px solid #fff;
+  border-bottom: 1px solid #888 !important;
 
   th {
-    background-color: #2189b2;
     color: white;
-    border: 1px solid #2189b2;
+    border: 5px solid #fff;
     font-size: 1.2em;
+    text-align: center !important;
+  }
+  th:nth-child(1) {
+    background-color: #e06666;
+  }
+  th:nth-child(2) {
+    background-color: #e69138;
+  }
+  th:nth-child(3) {
+    background-color: #187078;
   }
 
   td {
-    border: 1px solid #2189b2;
+    border: 1px solid #fff;
     padding: 5px;
+  }
+
+  .delimiter {
+    border-bottom: 1px solid #aaa;
+  }
+
+  .address {
+    text-align: center;
+  }
+  .address.name {
+    font-family: "Courgette";
+    color: #000;
+  }
+  .address.street {
+    font-size: 0.8em;
+    color: #666;
+  }
+  .address.city {
+    font-family: "Courgette";
+    color: #58b4d8;
+  }
+
+  .googlemaps {
+    height: 18px;
+  }
+
+  label {
+    font-size: 0.8em;
+    display: inline-block;
+    width: 45px;
+  }
+
+  span {
+    font-family: "Courgette";
+    a {
+      color: #000;
+    }
   }
 }
 
+#duration {
+  color: #888;
+  text-align: center;
+}
+
+#essai {
+  font-family: Courgette, sans-serif;
+  color: #e69138;
+  text-align: center;
+}
+
+.tarif:last-child {
+  margin-bottom: 50px;
+}

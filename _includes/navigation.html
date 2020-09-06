@@ -1,9 +1,25 @@
 <nav>
   {% for item in site.data.navigation %}
-  <span class="item">
+  <span class="menuitem">
     <a href="{{ item.link }}" {% if page.url == item.link %}class="selected"{% endif %}>
-      {{ item.name }}
+      <span class="item">
+        {{ item.name }}
+      </span>
     </a>
+    {% if item.sub_items %}
+      <span class=sub-menu>
+        {% for sub_item in item.sub_items %}
+        <a href="{{ sub_item.link }}">
+          <span class="sub-item">
+            {{sub_item.name}}
+          </span>
+        </a>
+        {% endfor %}
+      </span>
+    {% endif %}
   </span>
   {% endfor %}
+  <a href="https://www.facebook.com/kenkodo.yogadoin" class="facebook" target="_blank">
+  	<img alt="facebook" src="/assets/images/facebook.svg"/>
+  </a>
 </nav>
