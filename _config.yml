@@ -2,9 +2,10 @@ title: KenkōDō avec Inna
 contact_action: https://formspree.io/xyyjkzrj
 default_locale: "fr"
 tagline: Yoga Vinyasa et Yin & Do-In sur Romans, Valence et environs
-description: Yoga Vinyasa et Yin & Do-In sur Romans, Valence et environs
+description: KenkōDō avec Inna vous propose des activités autour du bien-être. Des cours de Vinyasa Yoga, Yin Yoga et Do-In vous sont proposés sur Romans, Valence et les environs.
 
-url: "https://www.kenkodo.fr"
+email: contact.kenkodo@gmail.com
+url: https://www.kenkodo.fr
 lang: "fr_FR"
 
 kramdown:
@@ -16,6 +17,7 @@ social:
     - https://www.facebook.com/kenkodo.yogadoin
 
 plugins:
+  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 

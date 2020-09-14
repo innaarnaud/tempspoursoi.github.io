@@ -1,11 +1,99 @@
 <!doctype html>
 <html lang="{{ site.lang | default: 'fr-FR' }}">
 <head>
+  {% if site.google_analytics %}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ site.google_analytics }}');
+    </script>
+  {% endif %}
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="cache-control" content="max-age=86400" />
+  <meta property="og:type" content="article" />
   <title>{{ site.title }} | {{ page.title }}</title>
   <link rel="stylesheet" href="/assets/css/styles.css">
   <link href="https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://use.typekit.net/liq2rnx.css">
+  {% seo %}
+  <script type="application/ld+json">
+    {
+      "@context": {
+        "@vocab": "http://schema.org/"
+      },
+      "@graph": [
+        {
+          "@id": "https://www.kenkodo.fr",
+          "@type": "Organization",
+          "name": "{{site.title}}",
+          "url" : "https://www.kenkodo.fr",
+          "logo" : "https://www.kenkodo.fr/assets/images/logo_kenkodo.png",
+          "sameAs" : [ "https://www.facebook.com/kenkodo.yogadoin" ],
+          "founder": {
+            "givenName": "Inna",
+            "familyName": "ARNAUD"
+          },
+          "image": [
+            "https://www.kenkodo.fr/assets/images/logo_kenkodo.png",
+            "https://www.kenkodo.fr/assets/images/IMG_20200524_154816.jpg",
+            "https://www.kenkodo.fr/assets/images/inna_warrior.jpg",
+            "https://www.kenkodo.fr/assets/images/inna_vercors.jpg",
+            "https://www.kenkodo.fr/assets/images/DSC_0363.jpg"
+          ]
+        },
+        {
+          "@type": "LocalBusiness",
+          "parentOrganization": {
+              "name": "{{site.title}}"
+          },
+          "@type": "LocalBusiness",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Valence, France",
+            "addressRegion": "Auvergne-Rhône-Alpes",
+            "postalCode": "26000",
+            "streetAddress": "13 Rue Mirabel Chambaud"
+          },
+          "email": "{{site.email}}",
+          "openingHours": [
+            "We 12:15-13:00",
+            "We 14:00-15:00",
+            "We 17:30-18:30",
+            "We 18:45-19:45",
+            "Fr 17:30-18:30",
+            "Fr 18:45-19:45"
+          ],
+          "description": "Cours de Yoga et Do-In à Valence",
+          "name": "Yoga et Do-In",
+          "telephone": "+33749171258",
+          "hasmap" : "https://www.google.com/maps/place/D%C3%B4j%C3%B4+Historique+Valence/@44.9310792,4.8858378,17z/data=!3m1!4b1!4m5!3m4!1s0x47f55996cd634801:0xe37a52822f454fcd!8m2!3d44.9310792!4d4.8880265"
+        },
+        {
+          "@type": "LocalBusiness",
+          "parentOrganization": {
+              "name": "{{site.title}}"
+          },
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Romans-sur-Isère, France",
+            "addressRegion": "Auvergne-Rhône-Alpes",
+            "postalCode": "26100",
+            "streetAddress": "7 Rue Sidonie Gabrielle Colette"
+          },
+          "email": "{{site.email}}",
+          "openingHours": "Th 18:30-19:30",
+          "description": "Cours de Do-In à Romans",
+          "name": "Cours de Do-In",
+          "telephone": "+33749171258",
+          "hasmap" : "https://www.google.com/maps/place/Villa+Gabriel/@45.0379464,5.0236229,17z/data=!3m1!4b1!4m5!3m4!1s0x47f54dd7c2ef0555:0x9a3baa9ed96302c4!8m2!3d45.0379464!4d5.0258116"
+        }
+      ]
+    }
+  </script>
+
 </head>
 <body>
   <div class="header">
