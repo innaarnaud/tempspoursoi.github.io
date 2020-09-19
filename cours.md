@@ -23,9 +23,6 @@ Chaque cours se compose des postures qui varient en fonction de la saison, de l'
 			<th>
 				Jeudi
 			</th>
-			<th>
-				Vendredi
-			</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -44,13 +41,6 @@ Chaque cours se compose des postures qui varient en fonction de la saison, de l'
 					<div class="address city">Romans sur Isère</div>
 				</a>
 			</td>
-			<td class="delimiter">
-				<a href="https://goo.gl/maps/z6hedhFED1ugsfob8" target="_blank">
-					<div class="address name">Dōjō historique <img class="googlemaps" alt="Google Maps - Dojo historique" src="/assets/images/Google_Maps_icon.png" /></div>
-					<div class="address street">13 Rue Mirabel Chambaud</div>
-					<div class="address city">Valence</div>
-				</a>
-			</td>
 		</tr>
 		<tr>
 			<td>
@@ -58,34 +48,27 @@ Chaque cours se compose des postures qui varient en fonction de la saison, de l'
 				<span><a href="/do_in">Dō-In (45 min.)</a></span>
 			</td>
 			<td></td>
-			<td></td>
 		</tr>
 		<tr>
 			<td>
-				<label>14h</label>
+				<label>15h</label>
 				<span><a href="/yoga#yin-yoga">Yin Yoga</a></span>
 			</td>
 			<td></td>
-			<td></td>
 		</tr>
 		<tr>
-			<td></td>
 			<td></td>
 			<td></td>
 		</tr>
 		<tr>
 			<td>
 				<label>17h30</label>
-				<span><a href="/do_in">Dō-In</a></span>
+				<span><a href="/yoga#yin-yoga">Yin Yoga</a></span>
 			</td>
 			<td>
 				<label>18h30</label>
 				<span><a href="/do_in">Dō-In</a></span>
 			</td>
-			<td>
-				<label>17h30</label>
-				<span><a href="/yoga#vinyasa-yoga">Vinyasa Yoga</a></span>
-			</td>
 		</tr>
 		<tr>
 			<td class="delimiter">
@@ -93,10 +76,6 @@ Chaque cours se compose des postures qui varient en fonction de la saison, de l'
 				<span><a href="/yoga#vinyasa-yoga">Vinyasa Yoga</a></span>
 			</td>
 			<td class="delimiter">
-			</td>
-			<td class="delimiter">
-				<label>18h45</label>
-				<span><a href="/yoga#yin-yoga">Yin Yoga</a></span>
 			</td>
 		</tr>
 	</tbody>

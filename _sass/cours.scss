@@ -10,13 +10,13 @@
     text-align: center !important;
   }
   th:nth-child(1) {
-    background-color: #e06666;
-  }
-  th:nth-child(2) {
     background-color: #e69138;
   }
-  th:nth-child(3) {
+  th:nth-child(2) {
     background-color: #187078;
+  }
+  th:nth-child(3) {
+    background-color: #e06666;
   }
 
   td {
