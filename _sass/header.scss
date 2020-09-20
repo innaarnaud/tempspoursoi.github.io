@@ -92,4 +92,13 @@
     display: block !important;
     margin-bottom: 8px !important;
   }
+
+  .header .menu nav a .item {
+    color: #2189b2;
+  }
+
+  .header .menu nav a.selected .item {
+    background-color: #2189b2;
+    color: #fff;
+  }
 }
