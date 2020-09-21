@@ -8,23 +8,42 @@ image: inna_vercors.jpg
 <div class="block" markdown="1">
 ## A propos de moi:
 
-Passionnée par la psychologie positive et la médecine alternative, j'intègre certaines notions dans mes cours. Le bien-être global reste au centre de la pratique.  
+Je m’appelle Inna, je suis passionnée par la santé holistique, la médecine préventive et la pensée positive. 
 
-L’écoute du soi, découverte de ses capacités et forces ainsi que l’apaisement du mental peuvent décrire la pratique. Oui, j’utilise souvent le mot "pratique" et non pas "cours".  
+J'ai commencé à pratiquer le yoga dans le backyard (jardin derrière la maison) de ma maman américaine à Memphis, Tennessee quand j'avais 20 ans.
 
-Cela pour une raison qu’en pratiquant régulièrement, même quelques minutes par jour, on obtient des résultats tangibles.
+Après une reprise d'études à Paris j'ai travaillé dans le domaine des assurances. Stress, pression, volonté de gravir les échellons, pression du contexte social, performance étaient des mots de mon quotidien.
 
-## Pourquoi avoir créer KenkōDō:
+Durant toutes ces années le yoga était pour moi un grand souffle que j'attendais avec impatience de retrouver presque tous les soirs.
 
-L'idée de KenkōDō a germé dans ma tête depuis mon enfance, grâce à ma maman qui utilisais des remèdes naturelles.  
+J'ai eu de la chance de ne pas finir en burn-out et de prendre conscience de l'importance du bien-être dans ma vie et dans ma peau.
 
-Les mots Kenkō et Dō en japonais signifient La Voie de la Santé.  
+Et voilà que 13 ans après mon premiers cours, j'ai entammé ma première formation de professeur de yoga, le début de ma nouvelle vie ! Et j'espère continuer sur ce chemin !
 
-L'objectif de KenkōDō est de garder la santé et/ou améliorer sa santé à travers des exercices de respiration, la nutrition et le travail corporel.  
 
-En prenant votre Voie de la Santé (votre KenkoDo) vous retrouvez un lien précieux entre le physique, le mental, l'émotionnel et le spirituel.  
+## Pourquoi avoir créé KenkōDō?
 
-Je serai heureuse de vous accompagner et de partager mes connaissances et ma pratique de Yoga et de Dō-In avec vous.  
+
+Les mots Kenkō et Dō en japonais signifient respectivement la Santé et la Voie. Le but de ce projet est de construire non pas mon chemin, mais marcher à vos côtés pour vous accompagner sur votre KenkōDō.
+
+Grâce à ma diversité de formations, j'aimerais partager avec vous divers petits exercices que l'on peut pratiquer à tout moment de la journée et régulièrement. La répétition est un élément clé afin de prévenir de certains déséquilibres, de certaines maladies et d'espérer vivre jusqu'à 130 ans en pleine forme! 
+
+
+## Mon approche:
+
+Mon parcours personnel m’a permis d’élaborer une approche individuelle à chacun pour vous accompagner sur le chemin de votre santé, de votre KenkōDō.
+
+Mon approche est avant tout préventive, elle s’appuie sur les apports de la sagesse et la médecine traditionnelle asiatique. Elle vise la (re)découverte et l’acceptation de Soi, de ses besoins. Pour rester en bonne santé et vivre heureux et dans le partage il est important de faire preuve de compréhension et d’amour vis à vis de soi-même et vivre l’instant présent en harmonie avec les autres.
+
+Pour commencer sur votre KenkōDō, différentes approches sont proposées pour correspondre à chacun de nous.
+
+Certains souhaiterons commencer par une pratique corporelle et énergétique, les cours de Vinyasa yoga, de Yin yoga et de Dō-In seront leur porte d'entrée.
+
+D'autres préféreront un accompagnement personnalisé afin de répondre à des problèmatiques précises, des blessures dont on ne souhaite pas parler en publique.
+
+A chacun de choisir son chemin et de bien se faire accompagner afin de gravir les montagnes ensemble.
+
+  
 
 ## Mes formations:
 

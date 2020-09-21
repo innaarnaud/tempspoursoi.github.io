@@ -6,11 +6,23 @@ image: DSC_0363.jpg
 ---
 <div class="block" markdown="1">
 
-## Trouvez un cours qui vous ressemble et qui vous fait du bien!
 
-Chacun de nous est différent et le yoga s’adapte à TOUS!  
-Je partage plusieurs styles de yoga complémentaire pour que chacun puisse trouver celui qui lui convient.  
-Chaque cours se compose des postures qui varient en fonction de la saison, de l'énergie du groupe et de l'inspiration du moment.  
+## Cours hebdomadaires
+Pour s’inspirer mutuellement, pour garder la régularité, pour échanger et grandir ensemble, je vous invite à rejoindre nos petits groupes à Valence et à Romans-sur-Isère.
+
+Par le Yoga et le Dô-In vous découvrirez ce qui vous rend heureux et ce qui vous aide à vous sentir vivant et bien!
+
+
+## Trouvez un cours qui vous ressemble!
+
+Chaque cours se compose de postures et d’étirements qui varient en fonction de la saison, de l’énergie du groupe et de l’inspiration du moment.
+
+Nous pratiquons ces étirements et postures, combinés avec des exercices respiratoires et des auto-massages pour améliorer la concentration et diminuer les effets du stress.
+
+Tout passe par le souffle qui nous relie à la nature et qui fait circuler la vitalité en nous.
+
+Nous prenons du temps pour s'écouter et s’accepter, pour observer notre corps et prêter attention aux petites détails. Comme le résume le proverbe chinois, “Le bonheur vient de l’attention prêté aux petites choses, et le malheur de la négligence des petites choses”.
+
 
 ## Le planning
 

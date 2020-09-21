@@ -2,11 +2,6 @@
   link: /
 - name: Me connaître
   link: /ma_philosophie.html
-  sub_items:
-  - name: Yoga 
-    link: /yoga.html
-  - name: Dô-In
-    link: /do_in.html
 - name: Cours
   link: /cours.html
   sub_items:
