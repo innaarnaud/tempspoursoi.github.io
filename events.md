@@ -26,8 +26,10 @@ image: mlle_violette_2020.jpeg
           <span>
             {{ post.excerpt }}
           </span>
-          <span>
-            <img src="/assets/images/{{post.logo}}" />
+          <span markdown="1">
+            {% responsive_image_block %}
+              path: "assets/images/{{post.logo}}"
+            {% endresponsive_image_block %}
           </span>
         </div>
       </li>

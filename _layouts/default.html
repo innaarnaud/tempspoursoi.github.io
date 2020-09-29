@@ -116,14 +116,16 @@
   </div>
   <div class="content {% if page.title == 'Accueil' %}accueil{% endif %} {% if page.noborder %}noborder{% endif %}">
     {% if page.title != 'Accueil' %}
-      {% if page.image != 'Accueil' %}
+      {% if page.image %}
         <div class="first section">
           <div class="title"> 
             <h1>
               {{page.title}}
             </h1>
           </div>
-          <img src="/assets/images/{{page.image}}" />
+          {% responsive_image_block %}
+            path: "assets/images/{{page.image}}"
+          {% endresponsive_image_block %}
         </div>
 
       {% else %}
