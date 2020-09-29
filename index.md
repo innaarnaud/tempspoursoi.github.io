@@ -4,6 +4,7 @@ title: Accueil
 noborder: true
 ---
 
+{::options parse_block_html="true" /}
 <div class="intro">
   <p class="citation">
     <span class="over">
