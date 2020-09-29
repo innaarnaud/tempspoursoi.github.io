@@ -4,8 +4,7 @@ title: Accueil
 noborder: true
 ---
 
-{::options parse_block_html="true" /}
-<div class="intro" markdown="1">
+<div class="intro">
   <p class="citation">
     <span class="over">
       <span class="welcome">
@@ -28,14 +27,13 @@ noborder: true
       </span>
     </span>
   </p>
-
+  <span markdown="1">
 {% responsive_image_block %}
   path: assets/images/IMG_20200524_154816.jpg
   alt: "Inna au barrage"
   class: "home"
 {% endresponsive_image_block %}
-
-  <!-- <img class="home" src="/assets/images/IMG_20200524_154816.jpg" /> -->
+  </span>
 </div>
 
 <div class="boxes">
