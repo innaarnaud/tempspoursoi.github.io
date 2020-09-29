@@ -5,7 +5,7 @@ noborder: true
 ---
 
 {::options parse_block_html="true" /}
-<div class="intro">
+<div class="intro" markdown="1">
   <p class="citation">
     <span class="over">
       <span class="welcome">
