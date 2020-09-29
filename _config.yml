@@ -31,6 +31,7 @@ whitelist:
 responsive_image:
   template: _includes/responsive-image.html
   output_path_format: assets/resized/%{width}/%{basename}
+  cache: true
   sizes:
     - width: 320
     - width: 480
