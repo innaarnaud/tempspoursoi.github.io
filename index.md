@@ -29,7 +29,7 @@ noborder: true
   </p>
   <span markdown="1">
 {% responsive_image_block %}
-  path: assets/images/IMG_20200524_154816.jpg
+  path: "assets/images/IMG_20200524_154816.jpg"
   alt: "Inna au barrage"
   class: "home"
 {% endresponsive_image_block %}
