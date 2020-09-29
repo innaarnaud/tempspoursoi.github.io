@@ -18,6 +18,7 @@ social:
 
 plugins:
   - jekyll-feed
+  - jekyll-responsive-image
   - jekyll-seo-tag
   - jekyll-sitemap
 
@@ -26,3 +27,12 @@ gems:
 
 whitelist:
   - jekyll-sitemap
+
+responsive_image:
+  template: _includes/responsive-image.html
+  output_path_format: assets/resized/%{width}/%{basename}
+  sizes:
+    - width: 320
+    - width: 480
+    - width: 800
+    - width: 1440

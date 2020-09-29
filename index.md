@@ -28,7 +28,9 @@ noborder: true
     </span>
   </p>
 
-  <img class="home" src="/assets/images/IMG_20200524_154816.jpg" />
+  {% responsive_image path: assets/images/IMG_20200524_154816.jpg alt: "Inna au barrage" class="home" %}
+
+  <!-- <img class="home" src="/assets/images/IMG_20200524_154816.jpg" /> -->
 </div>
 
 <div class="boxes">
