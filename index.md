@@ -29,11 +29,11 @@ noborder: true
     </span>
   </p>
 
-  {% responsive_image_block %}
-      path: assets/images/IMG_20200524_154816.jpg
-      alt: "Inna au barrage"
-      class: "home"
-  {% endresponsive_image_block %}
+{% responsive_image_block %}
+  path: assets/images/IMG_20200524_154816.jpg
+  alt: "Inna au barrage"
+  class: "home"
+{% endresponsive_image_block %}
 
   <!-- <img class="home" src="/assets/images/IMG_20200524_154816.jpg" /> -->
 </div>
