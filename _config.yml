@@ -28,6 +28,8 @@ gems:
 whitelist:
   - jekyll-sitemap
 
+include: ['.htaccess']
+
 responsive_image:
   template: _includes/responsive-image.html
   output_path_format: assets/resized/%{width}/%{basename}

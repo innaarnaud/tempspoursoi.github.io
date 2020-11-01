@@ -5,9 +5,11 @@
 - name: Cours
   link: /cours.html
   sub_items:
+  - name: Cours en ligne
+    link: /cours#cours-en-ligne
   - name: Le planning
     link: /cours#le-planning
   - name: Tarifs
-    link: /cours#tarifs
+    link: /cours#tarifs-des-cours-sur-site
 - name: Contact
   link: /#contact

@@ -1,0 +1,24 @@
+
+# webfont mime types
+AddType application/vnd.ms-fontobject  eot
+AddType font/truetype                  ttf
+AddType font/opentype                  otf
+AddType application/x-font-woff        woff
+
+ExpiresActive On
+ExpiresByType text/css "access plus 10 days"
+ExpiresByType text/javascript "access plus 365 days"
+ExpiresByType application/x-javascript "access plus 365 days"
+AddType image/vnd.microsoft.icon .ico
+ExpiresByType application/javascript "access plus 365 days"
+ExpiresByType image/x-icon "access plus 365 days"
+ExpiresByType image/vnd.microsoft.icon "access plus 365 days"
+ExpiresByType image/png "access plus 365 days"
+ExpiresByType image/gif "access plus 365 days"
+ExpiresByType image/jpeg "access plus 365 days"
+ExpiresByType image/jpg "access plus 365 days"
+ExpiresByType image/svg+xml "access plus 365 days"
+ExpiresByType font/opentype "access plus 365 days"
+ExpiresByType font/truetype "access plus 365 days"
+ExpiresByType font/otf "access plus 365 days"
+ExpiresByType application/x-shockwave-flash "access plus 365 days"

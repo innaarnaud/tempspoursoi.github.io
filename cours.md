@@ -23,8 +23,78 @@ Tout passe par le souffle qui nous relie à la nature et qui fait circuler la vi
 
 Nous prenons du temps pour s'écouter et s’accepter, pour observer notre corps et prêter attention aux petites détails. Comme le résume le proverbe chinois, “Le bonheur vient de l’attention prêté aux petites choses, et le malheur de la négligence des petites choses”.
 
+## Cours en ligne
+
+<table class="sceances">
+	<thead>
+		<tr>
+			<th>
+				Lundi
+			</th>
+			<th>
+				Mercredi
+			</th>
+			<th>
+				Jeudi
+			</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<label>12h</label>
+				<span><a href="/yoga#hatha-yoga">Hatha Yoga (30 min.)</a></span>
+			</td>
+			<td>
+				<label>12h15</label>
+				<span><a href="/do_in">Dō-In</a></span>
+			</td>
+			<td>
+				<label>12h</label>
+				<span><a href="/do_in">Dō-In (30 min.)</a></span>
+			</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>
+				<label>17h30</label>
+				<span><a href="/yoga#yin-yoga">Yin Yoga</a></span>
+			</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td class="delimiter">
+				<label>19h</label>
+				<span><a href="/yoga#hatha-yoga">Hatha Yoga</a></span>
+			</td>
+			<td class="delimiter">
+				<label>18h45</label>
+				<span><a href="/yoga#vinyasa-yoga">Vinyasa Yoga</a></span>
+			</td>
+			<td class="delimiter">
+				<label>18h30</label>
+				<span><a href="/do_in">Dō-In</a></span>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div id="duration">
+Les séances durent 1 heure, hors vacances scolaires.<br/>
+Les cours ont lieu sur la platforme Discord.
+</div>
+
+<div id="discord">
+	<a href="https://discord.gg/KT3q5gSAgY">
+		<img src="/assets/images/discord.png" />
+	</a>
+</div>
 
 ## Le planning
+
+<div class="alerte">
+Suite aux mesures gouvernementales, les cours ne peuvent être dispensés sur site.<br/>
+N'hésitez pas à nous contacter pour toute question.
+</div>
 
 <table class="sceances">
 	<thead>
@@ -94,37 +164,50 @@ Nous prenons du temps pour s'écouter et s’accepter, pour observer notre corps
 </table>
 
 <div id="duration">
-Les séances durent 1 heure, hors vacances scolaires.
+Les séances durent 1 heure, hors vacances scolaires.<br/>
+Cours d'essai gratuit
 </div>
 
-<h2 id="essai">
-Cours d'essai gratuit
-</h2>
-
-
-## Tarifs
+## Tarifs des cours sur site
 
 <div class="tarif">
-	<label>1 cours par semaine</label>
+	<label>Carte annuelle (1 cours/semaine)</label>
 	<span>280 €</span>
 </div>
 
 <div class="tarif">
-	<label>2 cours par semaine</label>
-	<span>350 €</span>
-</div>
-
-<div class="tarif">
-	<label>Carte illimitée multi-sites</label>
-	<span>450 €</span>
-</div>
-
-<div class="tarif">
-	<label>Carte de 10 cours</label>
+	<label>Carte de 10 cours (valable 6 mois)</label>
 	<span>130 €</span>
 </div>
 
 <div class="tarif">
-	<label>Carte à l'unité</label>
+	<label>Cours à l'unité</label>
 	<span>15 €</span>
+</div>
+
+## Tarifs des cours en ligne
+
+<div class="tarif">
+	<label>Carte annuelle (1 heure/semaine)</label>
+	<span>200 €</span>
+</div>
+
+<div class="tarif">
+	<label>Carte de 10 heures (valable 6 mois)</label>
+	<span>90 €</span>
+</div>
+
+<div class="tarif">
+	<label>Carte de 5 heures (valable 6 mois)</label>
+	<span>45 €</span>
+</div>
+
+<div class="tarif">
+	<label>Cours d'une heure</label>
+	<span>10 €</span>
+</div>
+
+<div class="tarif">
+	<label>Cours de 30 minutes</label>
+	<span>5 €</span>
 </div>

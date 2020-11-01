@@ -38,6 +38,9 @@ noborder: true
 
 <div class="boxes">
   <span class="boxe">
+    {% responsive_image_block %}
+      path: "assets/images/plantes.jpg"
+    {% endresponsive_image_block %}
     <h3>
       Nouveau en Yoga et/ou Dō-In ?
     </h3>
@@ -47,6 +50,9 @@ noborder: true
     <a href="/nouveau" title="Découvrir" class="button">Découvrir</a>
   </span>
   <span class="boxe">
+    {% responsive_image_block %}
+      path: "assets/images/accompagnement.jpg"
+    {% endresponsive_image_block %}
     <h3>
       Accompagnement individuel
     </h3>
@@ -56,6 +62,9 @@ noborder: true
     <a href="/#contact" title="Prendre contact" class="btn btn-style-2">Prendre contact</a>
   </span>
   <span class="boxe">
+    {% responsive_image_block %}
+      path: "assets/images/mlle_violette_2020.jpg"
+    {% endresponsive_image_block %}
     <h3>
       Nos prochains événements
     </h3>
