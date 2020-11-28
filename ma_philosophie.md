@@ -52,6 +52,20 @@ A chacun de choisir son chemin et de bien se faire accompagner afin de gravir le
 		2020
 	</label>
 	<span class="titre">
+		Yoga pré et post natal avec les bases de Gasquet
+	</span>
+	<span class="formateur">
+	  <a href="https://www.degasquet.com/" target="_blank">
+		<img src="/assets/images/25284.svg" />
+		De Gasquet Institut
+	  </a>
+	</span>
+</div>
+<div class="formation">
+	<label class="year">
+		2020
+	</label>
+	<span class="titre">
 		Do-In et Stretching Seïtai
 	</span>
 	<span class="formateur">

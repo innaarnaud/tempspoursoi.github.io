@@ -46,8 +46,6 @@ Nous prenons du temps pour s'écouter et s’accepter, pour observer notre corps
 				<span><a href="/yoga#hatha-yoga">Hatha Yoga (30 min.)</a></span>
 			</td>
 			<td>
-				<label>12h15</label>
-				<span><a href="/do_in">Dō-In</a></span>
 			</td>
 			<td>
 				<label>12h</label>
@@ -65,7 +63,7 @@ Nous prenons du temps pour s'écouter et s’accepter, pour observer notre corps
 		<tr>
 			<td class="delimiter">
 				<label>19h</label>
-				<span><a href="/yoga#hatha-yoga">Hatha Yoga</a></span>
+				<span><a href="/yoga#hatha-yoga">Hatha Yoga (en anglais)</a></span>
 			</td>
 			<td class="delimiter">
 				<label>18h45</label>
@@ -80,13 +78,13 @@ Nous prenons du temps pour s'écouter et s’accepter, pour observer notre corps
 </table>
 <div id="duration">
 Les séances durent 1 heure, hors vacances scolaires.<br/>
-Les cours ont lieu sur la platforme Discord.
+Les cours ont lieu sur la platforme Zoom.
+<br/>
+<b>Merci de confirmer votre présence aux cours.</b>
 </div>
 
 <div id="discord">
-	<a href="https://discord.gg/KT3q5gSAgY">
-		<img src="/assets/images/discord.png" />
-	</a>
+	<img src="/assets/images/zoom-logo.png" />
 </div>
 
 ## Le planning
@@ -123,20 +121,6 @@ N'hésitez pas à nous contacter pour toute question.
 					<div class="address city">Romans sur Isère</div>
 				</a>
 			</td>
-		</tr>
-		<tr>
-			<td>
-				<label>12h15</label>
-				<span><a href="/do_in">Dō-In (45 min.)</a></span>
-			</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>
-				<label>15h</label>
-				<span><a href="/yoga#yin-yoga">Yin Yoga</a></span>
-			</td>
-			<td></td>
 		</tr>
 		<tr>
 			<td></td>
